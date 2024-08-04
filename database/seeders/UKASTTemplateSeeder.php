@@ -8,6 +8,6 @@ class UKASTTemplateSeeder extends Seeder
 {
     public function run()
     {
-        // Votre logique de seed ici
+
     }
 }
